@@ -4,5 +4,5 @@ I am a software engineer that specializes in web development. I have experience 
 
 🧰 Toolbox
 
-<img src="https://user-images.githubusercontent.com/81620918/155963389-e341f176-67bf-4e7d-8f7f-5f980dd2925e.png" alt="React Logo" width="30" height="30"/>  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Express Logo" width="30" height="30"/>  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Express Logo" width="30" height="30"/>  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Express Logo" width="30" height="30"/>  <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Express Logo" width="30" height="30"/>
+<img src="https://user-images.githubusercontent.com/81620918/155963389-e341f176-67bf-4e7d-8f7f-5f980dd2925e.png" alt="React Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Express Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Express Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Express Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Express Logo" width="40" height="40"/>
  
