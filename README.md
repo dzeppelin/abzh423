@@ -6,3 +6,10 @@ I am a software engineer that specializes in web development. I have experience 
 
 <img src="https://user-images.githubusercontent.com/81620918/155963389-e341f176-67bf-4e7d-8f7f-5f980dd2925e.png" alt="React Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Express Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Express Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Express Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Express Logo" width="40" height="40"/>
  
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abzh423&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzh423&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
