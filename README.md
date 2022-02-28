@@ -10,6 +10,6 @@ I am a software engineer that specializes in web development. I have experience 
 
 ### &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abzh423&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abzh423&hide=java,html,css&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzh423&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abzh423&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
