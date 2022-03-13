@@ -1,6 +1,6 @@
 ### Welcome to my github portfolio!
 
-![image](https://giphy.com/embed/wwg1suUiTbCY8H8vIA.gif)
+![image](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)
 
 ---
 
