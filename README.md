@@ -1,6 +1,6 @@
 ### Welcome to my github portfolio!
 
-I am a software engineer, and I love solving problems that excite me. I have been doing it for a couple of years so far. I do seek new challenges and learn new things that excite me. I may be a team player, and I am always willing to help my team members.
+![image](https://giphy.com/embed/wwg1suUiTbCY8H8vIA)
 
 ---
 
