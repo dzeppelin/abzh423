@@ -7,4 +7,4 @@ I am software developer based in Kazakstan and I have been building web applicat
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abzh423&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abzh423&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abzh423&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
