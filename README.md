@@ -1,5 +1,5 @@
 ### A bit about me
-I am engineer based in Kazakstan. 
+I am in the apprenticeship stage, I like to work with low-level things such as systems programming, electrical and computer engineering.
 
 ---
 
