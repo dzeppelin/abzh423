@@ -1,11 +1,3 @@
-<style>
-      html * {
-        font-size: 16px;
-        line-height: 1.625;
-        color: #2020131;
-        font-family: Nunito, sans-serif;
-      }
-</style>
 <div id="header" align="center">
     <img src="https://c.tenor.com/ql4f6dmta0UAAAAi/hamster-spinning.gif" width="100" />
     <div id="badges">
