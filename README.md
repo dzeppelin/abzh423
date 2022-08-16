@@ -14,4 +14,5 @@
     </div>
     <h3>ABOUT ME</h3>
     <p>I study at <a href="https://nu.edu.kz" target="_blank">nu.edu.kz</a> and proud to be a part of them.</p>
+    <p>Currently on my first year in university, I code in Rust, C/C++ and I also like fantazy story and world building.</p>
 </div>
