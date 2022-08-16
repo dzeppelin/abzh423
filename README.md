@@ -16,10 +16,9 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=abzh423&style=flat-square&color=blue" alt="" />
     <h1>
-        <img src="https://user-images.githubusercontent.com/81620918/184860978-b157c70c-ca3d-4cb1-aa1e-0c7c381edfd0.png"
-            width="200px" />
+        My Board
         <img src="https://user-images.githubusercontent.com/81620918/184860602-cef3edd6-cb69-45f4-8517-a139805370a8.png"
-            width="30px" />
+            width="50px" />
     </h1>
     <div align="center">
         <img src="https://c.tenor.com/ZlCPmBWx9pwAAAAd/anime-girl-space.gif" width="600" height="300" />
