@@ -13,5 +13,5 @@
         </a>
     </div>
     <h3>ABOUT ME</h3>
-    <p>I study at nu.edu.kz and proud to be a part of them.</p>
+    <p>I study at <a href="https://nu.edu.kz" target="_blank">nu.edu.kz</a> and proud to be a part of them.</p>
 </div>
