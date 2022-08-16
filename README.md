@@ -17,7 +17,7 @@
     <img src="https://komarev.com/ghpvc/?username=abzh423&style=flat-square&color=blue" alt="" />
     <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
         <h2>
-            My Board <img src="https://user-images.githubusercontent.com/81620918/184863806-013771c5-7cd5-44b7-9d49-e1c50d2bf559.png"
+            My Board <img src="https://user-images.githubusercontent.com/81620918/184863993-30dc3ede-3183-498d-801b-c8f034772b51.png"
             width="20px" />
         </h2>
     </div>
