@@ -16,5 +16,5 @@
                 alt="Twitter Badge" />
         </a>
     </div>
-    <h3 align="left">About Me</h3>
+    <h3 align="left" style="width: 80%;">About Me</h3>
 </div>
