@@ -13,5 +13,5 @@
         </a>
     </div>
     <h3>ABOUT ME</h3>
-    <p>Nothing for now...</p>
+    <p>I study at nu.edu.kz and proud to be a part of them.</p>
 </div>
