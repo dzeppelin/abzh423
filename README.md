@@ -16,10 +16,10 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=abzh423&style=flat-square&color=blue" alt="" />
     <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-        <h1>
+        <h2>
             My Board <img src="https://user-images.githubusercontent.com/81620918/184863806-013771c5-7cd5-44b7-9d49-e1c50d2bf559.png"
             width="23px" />
-        </h1>
+        </h2>
     </div>
     <div align="center">
         <img src="https://c.tenor.com/ZlCPmBWx9pwAAAAd/anime-girl-space.gif" width="600" height="300" />
