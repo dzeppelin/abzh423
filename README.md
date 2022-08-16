@@ -11,10 +11,6 @@
             <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"
                 alt="Youtube Badge" />
         </a>
-        <a href="your-twitter-URL">
-            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
-                alt="Twitter Badge" />
-        </a>
     </div>
     <h3 align="left">About Me</h3>
 </div>
