@@ -17,6 +17,6 @@
         </a>
     </div>
     <div align="center">
-        <h2>About Me</h2>
+        <h2 style="text-decoration: none;">About Me</h2>
     </div>
 </div>
