@@ -14,10 +14,10 @@
   <img src="https://komarev.com/ghpvc/?username=abzh423&style=flat-square&color=blue" alt=""/>
   <h1>
   hey there
-  <img src="https://c.tenor.com/ZlCPmBWx9pwAAAAd/anime-girl-space.gif" width="30px"/>
+  <img src="" width="30px"/>
   </h1>
   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="![image](https://user-images.githubusercontent.com/81620918/184859504-983e883b-48d3-411b-9ac3-ae29e3bde45d.png)" width="600" height="300"/>
   </div>
 </div>
 
