@@ -18,7 +18,7 @@
     <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
         <h2>
             My Board <img src="https://user-images.githubusercontent.com/81620918/184863806-013771c5-7cd5-44b7-9d49-e1c50d2bf559.png"
-            width="23px" />
+            width="20px" />
         </h2>
     </div>
     <div align="center">
