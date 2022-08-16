@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=abzh423&style=flat-square&color=blue" alt=""/>
   <h1>
   hey there
-  <img src="https://c.tenor.com/tAaHTo4aXCwAAAAd/cool.gif" width="30px"/>
+  <img src="![image](https://user-images.githubusercontent.com/81620918/184859289-4efe0343-4d60-4adc-94b2-3222365aa2e6.png)" width="30px"/>
   </h1>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
