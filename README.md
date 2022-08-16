@@ -12,6 +12,6 @@
                 alt="Youtube Badge" />
         </a>
     </div>
-    <h3 align="left">About Me</h3>
+    <h3>ABOUT ME</h3>
     <p>Nothing for now...</p>
 </div>
