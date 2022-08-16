@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
     <div align="center">
         <img src="https://c.tenor.com/ZlCPmBWx9pwAAAAd/anime-girl-space.gif" width="600" height="300" />
     </div>
@@ -16,7 +16,7 @@
                 alt="Twitter Badge" />
         </a>
     </div>
-    <div align="center">
+    <div>
         <h2 style="text-decoration: none;">About Me</h2>
     </div>
 </div>
