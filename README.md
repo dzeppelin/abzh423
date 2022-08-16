@@ -16,7 +16,6 @@
                 alt="Twitter Badge" />
         </a>
     </div>
-    <div>
-        <h2 style="text-decoration: none;">About Me</h2>
-    </div>
 </div>
+
+## About Me
