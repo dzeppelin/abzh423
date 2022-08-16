@@ -17,7 +17,7 @@
   <img src="" width="30px"/>
   </h1>
   <div align="center">
-  <img src="![image](https://user-images.githubusercontent.com/81620918/184859504-983e883b-48d3-411b-9ac3-ae29e3bde45d.png)" width="600" height="300"/>
+  <img src="https://c.tenor.com/ZlCPmBWx9pwAAAAd/anime-girl-space.gif" width="600" height="300"/>
   </div>
 </div>
 
